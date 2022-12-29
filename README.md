@@ -1,2 +1,2 @@
-# Nuke-Tool
-Nuke tool for discord
+# Simple Núc tool
+Không có hdsd đâu, tự mà biết
